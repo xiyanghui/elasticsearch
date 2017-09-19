@@ -1,5 +1,5 @@
 {
-    "name": "xiyanghui/elasticsearch",
+    "name": "rayful/elasticsearch",
     "type": "composer-plugin",
     "require": {
         "php": ">=5.4.0",
